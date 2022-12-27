@@ -41,3 +41,7 @@ background-color: #dadfe6;
 padding: 15px;
 margin: 10px;
 }
+
+@media {
+  display: none;
+}
